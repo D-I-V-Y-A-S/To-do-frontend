@@ -1,3 +1,4 @@
-const Basic_Url = import.meta.env.BACKEND_URL || "http://localhost:3600/api/v1/todolist"
+const Basic_Url = import.meta.env.BACKEND_URL 
+
 
 export default Basic_Url;
